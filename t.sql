@@ -17,7 +17,6 @@ CREATE TABLE `employees` (
 `hire_date` date NOT NULL,
 PRIMARY KEY (`emp_no`));
 
-INSERT INTO departments VALUES('d001','Marketing');
 INSERT INTO departments VALUES('d002','Finance');
 INSERT INTO departments VALUES('d003','Human Resources');
 INSERT INTO departments VALUES('d004','Production');
