@@ -23,6 +23,7 @@ INSERT INTO departments VALUES('d003','Human Resources');
 INSERT INTO departments VALUES('d004','Production');
 INSERT INTO departments VALUES('d005','Development');
 INSERT INTO departments VALUES('d006','Quality Management');
+INSERT INTO departments VALUES('d007','Home');
 
 INSERT INTO dept_emp VALUES(10001,'d001','1986-06-26','9999-01-01');
 INSERT INTO dept_emp VALUES(10002,'d001','1996-08-03','9999-01-01');
